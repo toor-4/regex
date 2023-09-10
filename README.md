@@ -3,10 +3,12 @@
 
 ### Regular expressions, often referred to as "regex" or "regexp," are powerful tools for pattern matching and text manipulation in Python. A regular expression is a sequence of characters that defines a search pattern, allowing you to search, extract, and manipulate text based on specific criteria. This README provides an overview of Python's re module, which is used to work with regular expressions.
 
-###Key Features:
+<p>
+Key Features:
 
-###Pattern Matching: ####Regular expressions enable you to find specific patterns within text, making it easier to extract and manipulate data.
+Pattern Matching: Regular expressions enable you to find specific patterns within text, making it easier to extract and manipulate data.
 
-###Flexibility: ####can create complex patterns to match varying forms of text, such as email addresses, phone numbers, or dates, with precision and flexibility.
+Flexibility: can create complex patterns to match varying forms of text, such as email addresses, phone numbers, or dates, with precision and flexibility.
 
-###Text Manipulation: ####Regular expressions allow you to replace, split, or modify text based on patterns, facilitating data cleaning and transformation tasks.
+Text Manipulation: Regular expressions allow you to replace, split, or modify text based on patterns, facilitating data cleaning and transformation 
+</p>
