@@ -1,9 +1,9 @@
 <h2>regex ( regular expression ) </h2>
 <h1>Python Regular Expressions</h1>
 
-<h2>Regular expressions, often referred to as "regex" or "regexp," are powerful tools for pattern matching and text manipulation in Python. A regular expression is a sequence of characters that defines a search pattern, allowing you to search, extract, and manipulate text based on specific criteria. This README provides an overview of Python's re module, which is used to work with regular expressions.
+<h4>Regular expressions, often referred to as "regex" or "regexp," are powerful tools for pattern matching and text manipulation in Python. A regular expression is a sequence of characters that defines a search pattern, allowing you to search, extract, and manipulate text based on specific criteria. This README provides an overview of Python's re module, which is used to work with regular expressions.
 
-<b>Key Features:</b><h/2>
+<b>Key Features:</b><h/4>
 <p>
 <b>Pattern Matching:</b> Regular expressions enable you to find specific patterns within text, making it easier to extract and manipulate data.
 
