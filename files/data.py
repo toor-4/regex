@@ -15,10 +15,17 @@ import re
 # 2
 with open('files/data.txt', 'r', encoding='utf-8') as f:
     file = f.read()
-    # a. Pattern for address 
+    ## -- Pattern for address 
     # pattern = re.compile(r"[A-Z].+,\s.+")
-    # b. pattern for email address 
-    pattern = re.compile(r'[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+')
+    ## -- pattern for email address 
+    # pattern = re.compile(r'[A-Za-z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+')
+    # pattern = re.compile(r'[A-Z].+:\s[a-zA-Z].+')
+    ## -- pattern for phone
+    pattern = re.compile(r'[A-Z].+:\s\d{3}-.+')
+
+
+
+
     matches = pattern.finditer(file)
     for match in matches:
         print(match.group(0))
