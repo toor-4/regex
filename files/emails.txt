@@ -1,0 +1,10 @@
+john.doe@gmail.com
+SarahSmith@university.edu
+jennifer123@emailprovider.com
+mikedavis@emailservice.net
+emily.brown@example.org
+alexander-555.jones@emailhosting.org
+lisa.johnson@emailcompany.com
+mark_anderson@emailprovider.net
+anna.miller@emailservice.org
+robert-789.smith@emailworkplace.com
