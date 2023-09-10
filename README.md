@@ -1,6 +1,6 @@
 # re ( regular expression )
 Python re module is a set of functions that allow us to search, match, and extract patterns from strings. 
-1. What exactly is a Regular Expression?
+<h1>1. What exactly is a Regular Expression?</h1>
 A regular expression, often called a pattern, is an expression used to specify a set of strings required for a particular purpose.
 
 A simple way to specify a finite set of strings is to list its elements or members.
