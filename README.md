@@ -5,9 +5,8 @@
 
 #### Key Features:
 <p>
-Markup : 
 - Pattern Matching: Regular expressions enable you to find specific patterns within text, making it easier to extract and manipulate data.
-
+  
 - Flexibility: You can create complex patterns to match varying forms of text, such as email addresses, phone numbers, or dates, with precision and flexibility.
 
 - Text Manipulation: Regular expressions allow you to replace, split, or modify text based on patterns, facilitating data cleaning and transformation 
