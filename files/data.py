@@ -3,7 +3,7 @@
 import re
 
 ## Using with statement to open and read the data.txt file
-with open('../files/data.txt', 'r', encoding='utf-8') as f:
+with open('data.txt', 'r', encoding='utf-8') as f:
     file = f.read()
     """ pattern for names """
     pattern = re.compile(r"([A-Z][a-z]+ [A-Z][a-z]+)\n")

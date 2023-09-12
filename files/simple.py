@@ -2,7 +2,7 @@
 
 import re
 
-with open('../files/simple.txt', 'r') as f:
+with open('simple.txt', 'r') as f:
     file = f.read()
     # pattern = re.compile(r'abc')
     # pattern = re.compile(r'\.')

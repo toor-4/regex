@@ -13,7 +13,7 @@ print()
 print(new_string)
 print()
 ## -- 2
-with open('../files/sub.txt', 'r') as f:
+with open('sub.txt', 'r') as f:
     file = f.read()
     pattern = re.compile(r'https?://(www\.)?(\w+)(\.\w+)')
     subt_urls = pattern.sub(r'\2\3', file)     
